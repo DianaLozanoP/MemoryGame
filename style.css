@@ -1,0 +1,111 @@
+h1 {
+  font-family: 'Abyssinica SIL', serif;
+  text-align: center;
+}
+h3{
+  font-family: 'Abyssinica SIL', serif;
+  text-align: center;
+}
+body{
+  background-color: lightblue;
+}
+.purple{
+  border: 6px solid rgb(105, 92, 17);
+  width: 16%;
+  height: 200px;
+  margin: 22px;
+  display: inline-block;
+  background-color: rgb(76, 76, 142);
+}
+.red{
+  border: 6px solid rgb(105, 92, 17);
+  width: 16%;
+  height: 200px;
+  margin: 22px;
+  display: inline-block;
+  background-color: rgb(76, 76, 142);
+}
+.blue{
+  border: 6px solid rgb(105, 92, 17);
+  width: 16%;
+  height: 200px;
+  margin: 22px;
+  display: inline-block;
+  background-color: rgb(76, 76, 142);
+}
+.orange{
+  border: 6px solid rgb(105, 92, 17);
+  width: 16%;
+  height: 200px;
+  margin: 22px;
+  display: inline-block;
+  background-color: rgb(76, 76, 142);
+}
+.green{
+  border: 6px solid rgb(105, 92, 17);
+  width: 16%;
+  height: 200px;
+  margin: 22px;
+  display: inline-block;
+  background-color: rgb(76, 76, 142);
+}
+.purple.flipped{
+  background-image: url(Purple\ flower.jpg);
+  background-size: 295px;
+  border:none;
+  margin: 20px;
+}
+.purple.matched{
+  background-image: url(Purple\ flower.jpg);
+  background-size: 295px;
+  border:none;
+  margin: 20px;
+}
+.red.flipped{
+  background-image: url(red-rose-meaning.jpg);
+  background-size: 320px;
+  border: none;
+  margin: 20px;
+}
+.red.matched{
+  background-image: url(red-rose-meaning.jpg);
+  background-size: 320px;
+  border: none;
+  margin: 20px;
+}
+.blue.flipped{
+  background-image: url(Blue\ flower.jpg);
+  background-size: 300px;
+  border: none;
+  margin: 20px;
+}
+.blue.matched{
+  background-image: url(Blue\ flower.jpg);
+  background-size: 300px;
+  border: none;
+  margin: 20px;
+}
+.green.flipped{
+  background-image: url(Dandelion.jpg);
+  background-size: 245px;
+  border: none;
+  margin: 20px;
+}
+.green.matched{
+  background-image: url(Dandelion.jpg);
+  background-size: 245px;
+  border: none;
+  margin: 20px;
+}
+.orange.flipped{
+  background-image: url(Orange\ flower.jpg);
+  background-size: 380px;
+  border:none;
+  margin: 20px;
+}
+.orange.matched{
+  background-image: url(Orange\ flower.jpg);
+  background-size: 380px;
+  border:none;
+  margin: 20px;
+}
